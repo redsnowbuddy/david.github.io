@@ -266,7 +266,7 @@ ul {
 }
 .slideshow li:nth-child(1) span { 
     
-	background-image: url(ac.jpg); 
+	background-image: url(AC.jpg); 
 	
 	
 	
@@ -274,7 +274,7 @@ ul {
 .slideshow li:nth-child(2) span { 
     
 	
-	background-image: url(anno.jpg);
+	background-image: url(Anno.jpg);
     animation-delay: 6s; 
 }
 .slideshow li:nth-child(3) span { 
@@ -282,7 +282,7 @@ ul {
     animation-delay: 12s; 
 }
 .slideshow li:nth-child(4) span { 
-    background-image: url(cod.jpg);
+    background-image: url(COD.jpg);
     animation-delay: 18s; 
 }
 .slideshow li:nth-child(5) span { 
