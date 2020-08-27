@@ -745,6 +745,27 @@ ul {
 	max-width: 200px;
 	}
 }
+@media only screen and (max-width:1024px){
+	
+	
+	.slideshow {
+		width: 100vw;
+	
+		height: 56.25vw;
+		max-height: 100vh;
+		max-width: 177.78vh;
+		position: absolute;
+		top: 0;
+		left: 0;
+		color: transparent;
+		background-size: cover;
+		background-position: top-center;
+		background-repeat: none;
+    
+	
+     
+	}
+}
 /*end responsive */
 
 
